@@ -1,0 +1,2 @@
+patient,sample,lane,fastq_1,fastq_2
+ERR031940,S1,L003,data/fastq/ERR031940_1.fastq.gz,data/fastq/ERR031940_2.fastq.gz

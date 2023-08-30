@@ -1,2 +1,6 @@
 *.fastq.gz
 *.bed
+.nextflow*
+results
+sarek_test
+work
