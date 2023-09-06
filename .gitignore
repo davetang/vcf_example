@@ -1,3 +1,4 @@
+*.gff3.gz
 *.fastq.gz
 *.bed
 .nextflow*
